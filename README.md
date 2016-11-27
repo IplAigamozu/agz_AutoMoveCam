@@ -2,8 +2,10 @@
 
 ##opencvの使い方
 ###utilsブランチからopencvを任意の場所へコピー
+* visual studio上の　"表示"⇒ 
 
-
+##OptCamSDKの使い方
+###utilsブランチからOptCamSDKを任意の場所へコピー
 
 *ここがemタグで強調されます*  
 _ここがemタグで強調されます_
