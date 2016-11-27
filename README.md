@@ -2,7 +2,8 @@
 
 ##opencvの使い方
 ###utilsブランチからopencvを任意の場所へコピー
-* visual studio上の　"表示"⇒ 
+* visual studio上の "表示" ⇒ "その他のウィンドウ" ⇒ "プロパティマネージャー" を開く
+
 
 ##OptCamSDKの使い方
 ###utilsブランチからOptCamSDKを任意の場所へコピー
