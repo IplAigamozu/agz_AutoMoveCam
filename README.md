@@ -1,6 +1,7 @@
 # agz_AutoMoveCam
 
 ##opencvの使い方
+###utilsブランチからopencvを任意の場所へコピー
 
 
 
